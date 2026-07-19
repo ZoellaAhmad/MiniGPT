@@ -1,5 +1,5 @@
 # LLM
-A personal project undertaken to deepen my understanding about the training of Large Language Models. It is an implementation of a generative, decoder-only Transformer language model (GPT architecture).
+A personal project undertaken to deepen my understanding about the training of Large Language Models. It is an implementation of a generative, decoder-only Transformer language model (GPT architecture) from scratch. The dataset used for training was the full text of "The Wizard of Oz" and then the OpenWebText corpus. 
 
 ### Key Implementations:
 * **Causal Masked Self-Attention:** Implemented multi-head attention blocks with lower-triangular causal masks to ensure strictly autoregressive token generation.

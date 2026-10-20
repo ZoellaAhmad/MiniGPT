@@ -1,4 +1,4 @@
-# LLM
+# MiniGPT
 A personal project undertaken to deepen my understanding about the training of Large Language Models. It is an implementation of a generative, decoder-only Transformer language model (GPT architecture) from scratch. The dataset used for training was the full text of "The Wizard of Oz" and then the OpenWebText corpus. 
 
 ### Key Implementations:
